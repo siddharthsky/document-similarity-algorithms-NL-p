@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#dataset">Dataset</a> •
-  <a href="#similarity-algorithms">Similarity Algorithms</a> •
+  <a href="#similarity-algorithms">Similarity Algorithms</a> 
 </p>
 
 ## About
