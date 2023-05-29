@@ -1,22 +1,34 @@
-Finding Similar Data in News Category Dataset
-This project is designed to help users find the most similar data to a given input from the News Category Dataset, using four different similarity algorithms. The project also includes a model that can be trained to predict the most similar data to a given input.
+<h1 align="center">Finding Similar Data in News Categories</h1>
 
-Dataset
-The News Category Dataset is available on Kaggle at the following link: https://www.kaggle.com/datasets/rmisra/news-category-dataset. 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="made-with-python">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome">
+</p>
 
-The dataset contains over 200,000 news articles from 2012 to 2018, and includes the following columns:
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#dataset">Dataset</a> •
+  <a href="#similarity-algorithms">Similarity Algorithms</a> •
+  <a href="#model-building">Model Building</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-- category: the category of the news article
-- headline: the headline of the news article
-- authors: the authors of the news article
-- link: a link to the news article
-- short_description: a short summary of the news article
+## About
+This project aims to find the most similar data in news categories using four different similarity algorithms. 
 
-Similarity Algorithms
-We use four different similarity algorithms to find the most similar data to a given input:
+In the similarity algorithm implementation part, four different similarity algorithms are used to find the most similar data in news categories. These algorithms include Cosine Similarity, Jaccard Similarity, Euclidean Distance, and Manhattan Distance.
 
-- Cosine similarity
-- Jaccard similarity
-- Euclidean distance
-- Manhattan distance
-Each algorithm is implemented using Python and the scikit-learn library.
+
+## Dataset
+The dataset used in this project is the News Category Dataset, which can be found on Kaggle at https://www.kaggle.com/rmisra/news-category-dataset. This dataset contains news articles from various categories, including business, entertainment, politics, sports, and technology.
+
+## Similarity Algorithms
+Four different similarity algorithms are used in this project to find the most similar data in news categories:
+
+* Cosine Similarity
+* Jaccard Similarity
+* Euclidean Distance
+* Manhattan Distance
+
