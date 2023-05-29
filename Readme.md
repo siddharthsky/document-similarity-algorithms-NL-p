@@ -9,10 +9,6 @@
   <a href="#about">About</a> •
   <a href="#dataset">Dataset</a> •
   <a href="#similarity-algorithms">Similarity Algorithms</a> •
-  <a href="#model-building">Model Building</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
 </p>
 
 ## About
