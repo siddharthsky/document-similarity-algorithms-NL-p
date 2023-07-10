@@ -27,4 +27,4 @@ Four different similarity algorithms are used in this project to find the most s
 * Jaccard Similarity
 * Euclidean Distance
 * Manhattan Distance
-
+ 
